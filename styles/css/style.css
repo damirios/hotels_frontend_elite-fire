@@ -59,7 +59,7 @@ body {
   overflow: hidden;
   background-color: rgb(0, 0, 0);
   background-image: url("../../images/bg_cell.png");
-  background-size: 144px auto;
+  background-size: 72px auto;
   background-repeat: repeat;
   color: #fff;
   position: relative;
