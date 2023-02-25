@@ -1,2 +1,2 @@
-# hotels_frontend_elite-fire
+# Elite Fire
 Адаптивная вёрстка макета. Домашнее задание для hotels.ru
